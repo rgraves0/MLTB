@@ -1,5 +1,6 @@
-##Bot Command
-####
+## Bot commands to be set in [@BotFather](https://t.me/BotFather)
+
+```
 mirror - or /m Mirror
 qbmirror - or /qm Mirror torrent using qBittorrent
 leech - or /l Leech
@@ -24,3 +25,6 @@ restart - Restart the Bot
 stats - Bot Usage Stats
 ping - Ping the Bot
 help - All cmds with description
+```
+
+------
