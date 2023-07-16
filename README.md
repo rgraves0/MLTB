@@ -28,3 +28,11 @@ help - All cmds with description
 ```
 
 ------
+
+## Credit 
+
+`````
+
+Original Repo: https://github.com/anasty17/mirror-leech-telegram-bot
+
+`````
