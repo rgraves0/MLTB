@@ -1,4 +1,5 @@
-# Bot Command
+##Bot Command
+####
 mirror - or /m Mirror
 qbmirror - or /qm Mirror torrent using qBittorrent
 leech - or /l Leech
